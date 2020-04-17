@@ -10,6 +10,6 @@ The current code uses the same port names used in the Ableton virtual MIDI guide
 
 To start things up:
 1. Create the virtual MIDI port as specified in the Ableton guide
-2. Load the index.html file
+2. Go to https://avneeshsarwate.github.io/Ableton-p5/
 3. Open the Ableton file
 4. Hit the play button under the pink label that says MIDI Track 1.
