@@ -15,3 +15,7 @@ To start things up and verify that your MIDI setup works:
 4. Hit the play button under the pink label that says MIDI Track 1.
 
 To make changes and run your own code, you'll need to serve the webpage from a local server. [This guide](https://github.com/processing/p5.js/wiki/Local-server) shows how to set up a local server so you can edit the `sketch.js` file and see your changes.
+
+This example uses [Clip Envelopes](https://www.ableton.com/en/manual/clip-envelopes/) to send MIDI information. In Ableton, Clips are sequences of both discrete and continuous events (e.g triggering notes and automating sliders/faders), and you can use them to keyframe animations. Multiple clips can be run at once, or sequenced in interactive ways, allowing you to create intricate, layered, realtime animations.
+
+The animations in these examples are programmed using https://p5js.org/ - an easy to use but powerful javascript library for prototyping basic animations. 
